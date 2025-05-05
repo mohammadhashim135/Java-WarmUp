@@ -77,22 +77,22 @@ Contributions are **welcome**! If you’d like to improve this repo, feel free t
 
 ### **Steps to Contribute:**
 
-**Fork the repository**
-### **1. Create a new branch:**
+**1. Fork the repository**
+### **2. Create a new branch:**
 ```bash
 git switch -b ques-branch
 ```
 
-### **2. Make your changes and commit:**
+### **3. Make your changes and commit:**
 
 ```bash
 git commit -m "Added new Ques/Code"
 ```
-### **3. Push to the branch:**
+### **4. Push to the branch:**
 ```bash
 git push origin ques-branch
 ```
-### **Open a Pull Request**
+### **5. Open a Pull Request**
 ---
 
 ## **License** 📜
