@@ -56,10 +56,10 @@ cd Java-WarmUp
 
 You can use any Java IDE such as:
 
--VS Code (with Java Extension Pack)
--IntelliJ IDEA
--Eclipse
--NetBeans
+- VS Code (with Java Extension Pack)
+- IntelliJ IDEA
+- Eclipse
+- NetBeans
 
 Open the Java-WarmUp folder as a project in your IDE.
 
