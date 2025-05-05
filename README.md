@@ -7,12 +7,12 @@
 This repository is divided into two main sections:
 
 ### 1. **Add-On** 🔥
-- This folder contains **advanced problems** that require a deeper understanding and application of Java concepts.
+- This folder contains **advanced problems** that requires a deeper understanding.
 - Each problem is designed to **challenge** your skills and test your knowledge.
 
 ### 2. **Quick-Recap** 📚
 - This folder is for **simpler concepts** in Java, with explanations at the top of each file.
-- It's a quick reference for **fundamental topics** like loops, arrays,exception,etc...
+- It's a quick reference for **fundamental topics** like loops, arrays,exception,applet,swings,etc...
 ---
 ### File Structure: 📂
 
@@ -77,7 +77,8 @@ Contributions are **welcome**! If you’d like to improve this repo, feel free t
 
 ### **Steps to Contribute:**
 
-**1. Fork the repository**
+### **1. Fork the repository**
+
 ### **2. Create a new branch:**
 ```bash
 git switch -b ques-branch
