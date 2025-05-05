@@ -1,6 +1,6 @@
 # **Java Warm-Up Repository** 🚀
+**This repo is designed to help you practice and master **Java programming** concepts through hands-on problem-solving.**
 
-**Welcome to the **Java Warm-Up Repository**! This repo is designed to help you practice and master **Java programming** concepts through hands-on problem-solving. The focus is on solving a variety of problems ranging from **basic** to **advanced** topics. It will serve as both a learning tool and a personal reference for **Java control structures**, **algorithms**, and other essential programming concepts. 💻✨**
  ---
 ## Repository Structure 🗂️
 
