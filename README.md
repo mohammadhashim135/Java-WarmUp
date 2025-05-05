@@ -19,12 +19,12 @@ This repository is divided into two main sections:
 ```bash
 Java-WarmUp/
 ├── Add-On/
-| ├── Control-Statements/ 
+│ ├── Control-Statements/ 
 │ ├── Arrays/
-│ |...
+│ │...
 │ ├── AWT/
 │ └── Swing/
-| └── ...
+│ └── ...
 ├── Quick-Recap/
 │ ├── Loops/
 │ ├── Arrays/
@@ -66,7 +66,7 @@ Open the Java-WarmUp folder as a project in your IDE.
 ### **3. Compile & Run Java Files**
 
 ```bash
-cd AddOn/ControlStatements       # or go to any folder
+cd Add-On/Control-Statements     # or go to any folder
 javac PrimeCheck.java            # compile
 java PrimeCheck                  # run
 ```
@@ -77,21 +77,22 @@ Contributions are **welcome**! If you’d like to improve this repo, feel free t
 
 ### **Steps to Contribute:**
 
-1. **Fork the repository** 🍴
-2. **Create a new branch:**
-    ```bash
-    git checkout -b ques-branch
-    ```
-3. **Make your changes and commit:**
-    ```bash
-    git commit -m "Added new Ques/Code"
-    ```
-4. **Push to the branch:**
-    ```bash
-    git push origin ques-branch
-    ```
-5. **Open a Pull Request** 🔄
+**Fork the repository**
+### **1. Create a new branch:**
+```bash
+git switch -b ques-branch
+```
 
+### **2. Make your changes and commit:**
+
+```bash
+git commit -m "Added new Ques/Code"
+```
+### **3. Push to the branch:**
+```bash
+git push origin ques-branch
+```
+### **Open a Pull Request**
 ---
 
 ## **License** 📜
