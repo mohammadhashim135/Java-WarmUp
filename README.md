@@ -6,26 +6,26 @@
 
 This repository is divided into two main sections:
 
-### 1. **AddOn** 🔥
+### 1. **Add-On** 🔥
 - This folder contains **advanced problems** that require a deeper understanding and application of Java concepts.
 - Each problem is designed to **challenge** your skills and test your knowledge.
 
-### 2. **QuickRecap** 📚
+### 2. **Quick-Recap** 📚
 - This folder is for **simpler concepts** in Java, with explanations at the top of each file.
-- It's a quick reference for **fundamental topics** like loops, arrays, and basic control statements.
+- It's a quick reference for **fundamental topics** like loops, arrays,exception,etc...
 ---
 ### File Structure: 📂
 
 ```bash
-java-warmup/
-├── AddOn/
-| ├── ControlStatements/ 
+Java-WarmUp/
+├── Add-On/
+| ├── Control-Statements/ 
 │ ├── Arrays/
 │ |...
 │ ├── AWT/
 │ └── Swing/
 | └── ...
-├── QuickRecap/
+├── Quick-Recap/
 │ ├── Loops/
 │ ├── Arrays/
 │ ├── ControlStatements/
@@ -39,10 +39,37 @@ java-warmup/
 The main goal of this repository is to help you **improve your problem-solving skills** and make the process of learning Java more **efficient** and **enjoyable**. Whether you are preparing for **interviews**, **exams**, or simply practicing, this repo is your go-to place for structured **Java problem sets**. 📈
 
 ## How to Use 🛠️
-1. Browse the **AddOn** and **QuickRecap** folders for **code examples**.
+1. Browse the **Add-On** and **Quick-Recap** folders for **code examples**.
 2. Clone the repository to your **local machine** and start solving the problems.
 3. If you get stuck or need clarification, feel free to **ask for help**! 🤔
 
+---
+## **Installation & Setup** 🏗  
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/mohammadhashim135/Java-WarmUp.git
+cd Java-WarmUp
+```
+### **2. Open in Your Favorite IDE**
+
+You can use any Java IDE such as:
+
+-VS Code (with Java Extension Pack)
+-IntelliJ IDEA
+-Eclipse
+-NetBeans
+
+Open the Java-WarmUp folder as a project in your IDE.
+
+### **3. Compile & Run Java Files**
+
+```bash
+cd AddOn/ControlStatements       # or go to any folder
+javac PrimeCheck.java            # compile
+java PrimeCheck                  # run
+```
 ---
 
 ## **Contributing** 🤝
