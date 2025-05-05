@@ -1,4 +1,4 @@
-# **Java Warm-Up Repository** 🚀
+# **Java Warm-Up** 🚀
 **This repo is designed to help you practice and master **Java programming** concepts through hands-on problem-solving.**
 
  ---
