@@ -12,7 +12,7 @@ This repository is divided into two main sections:
 
 ### 2. **Quick-Recap** 📚
 - This folder is for **simpler concepts** in Java, with explanations at the top of each file.
-- It's a quick reference for **fundamental topics** like loops, arrays,exception,applet,swings,etc...
+- It's a quick reference for **fundamental topics** like loops,constructors, arrays,exception,applet,swings,etc...
 ---
 ### File Structure: 📂
 
@@ -21,6 +21,8 @@ Java-WarmUp/
 ├── Add-On/
 │ ├── Control-Statements/ 
 │ ├── Arrays/
+│ │    ├──Sorting/
+│ │       ├──MergeSort.java
 │ │...
 │ ├── AWT/
 │ └── Swing/
