@@ -4,15 +4,24 @@
  ---
 ## Repository Structure 🗂️
 
-This repository is divided into two main sections:
+This repository is divided into three main sections:
 
 ### 1. **Add-On** 🔥
 - This folder contains **advanced problems** that requires a deeper understanding.
+- Each subfolder is dedicated to a specific topic, such as **Control Statements**, **Arrays**, **AWT**, **Swing**, etc.
 - Each problem is designed to **challenge** your skills and test your knowledge.
 
 ### 2. **Quick-Recap** 📚
-- This folder is for **simpler concepts** in Java, with explanations at the top of each file.
-- It's a quick reference for **fundamental topics** like loops,constructors, arrays,exception,applet,swings,etc...
+
+- Each subfolder contains **code snippets** and **Notes** to help you grasp the concepts quickly.
+- The **Quick-Recap** section is perfect for **beginners** or anyone looking to **refresh** their knowledge.
+- It serves as a **quick reference** for **fundamental topics** like loops, constructors, arrays, exception handling, applets, swings, etc.
+
+### 3. LeetCode Problems 💻
+
+- Each subfolder contains **LeetCode problems** related to the topic, with **Notes** and **code snippets** to help you solve them.
+- The **LeetCode Problems** section is perfect for **practicing** your coding skills and preparing for technical interviews.
+
 ---
 ### File Structure: 📂
 
@@ -29,9 +38,21 @@ Java-WarmUp/
 │ └── ...
 ├── Quick-Recap/
 │ ├── Loops/
+│ ├── Constructors/
+│       ├── Notes.md
+│       ├── Constructors.java
 │ ├── Arrays/
-│ ├── ControlStatements/
+│       ├── Notes.md
+│       ├── Arrays.java
 │ └── ...
+├── LeetCode/
+│ ├── Arrays/
+│ │    ├── ....
+│ ├── Strings/ 
+│ │    ├── ReverseString.java
+│      ├── ....
+│ ├── LinkedList/
+│ │    ├── ....
 ├── README.md
 ```
 
@@ -41,9 +62,10 @@ Java-WarmUp/
 The main goal of this repository is to help you **improve your problem-solving skills** and make the process of learning Java more **efficient** and **enjoyable**. Whether you are preparing for **interviews**, **exams**, or simply practicing, this repo is your go-to place for structured **Java problem sets**. 📈
 
 ## How to Use 🛠️
-1. Browse the **Add-On** and **Quick-Recap** folders for **code examples**.
-2. Clone the repository to your **local machine** and start solving the problems.
-3. If you get stuck or need clarification, feel free to **ask for help**! 🤔
+1. Browse the **Add-On** and **Quick-Recap** folders for **code examples** and **Notes**.
+2. Explore the **LeetCode Problems** section for **hands-on practice**.
+3. Clone the repository to your **local machine** and start solving the problems.
+4. If you get stuck or need clarification, feel free to **ask for help**! 🤔
 
 ---
 ## **Installation & Setup** 🏗  
