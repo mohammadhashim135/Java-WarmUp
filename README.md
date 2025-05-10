@@ -34,23 +34,23 @@ Java-WarmUp/
 │ │       ├──MergeSort.java
 │ │...
 │ ├── AWT/
-│ └── Swing/
-│ └── ...
+│ ├── Swing/
+│ ├── ...
 ├── Quick-Recap/
 │ ├── Loops/
 │ ├── Constructors/
-│       ├── Notes.md
-│       ├── Constructors.java
+│ │     ├── Notes.md
+│ │     ├── Constructors.java
 │ ├── Arrays/
-│       ├── Notes.md
-│       ├── Arrays.java
+│ │     ├── Notes.md
+│ │     ├── Arrays.java
 │ └── ...
 ├── LeetCode/
 │ ├── Arrays/
 │ │    ├── ....
 │ ├── Strings/ 
 │ │    ├── ReverseString.java
-│      ├── ....
+│ │    ├── ....
 │ ├── LinkedList/
 │ │    ├── ....
 ├── README.md
