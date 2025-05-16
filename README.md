@@ -8,7 +8,7 @@ This repository is divided into three main sections:
 
 ### 1. **Add-On** 🔥
 - This folder contains **advanced problems** that requires a deeper understanding.
-- Each subfolder is dedicated to a specific topic, such as **Control Statements**, **Arrays**, **AWT**, **Swing**, etc.
+- Each subfolder is dedicated to a specific topic, such as **Arrays**, **Trees**, **Graphs**, **Swing**, etc.
 - Each problem is designed to **challenge** your skills and test your knowledge.
 
 ### 2. **Quick-Recap** 📚
@@ -28,12 +28,15 @@ This repository is divided into three main sections:
 ```bash
 Java-WarmUp/
 ├── Add-On/
-│ ├── Control-Statements/ 
 │ ├── Arrays/
 │ │    ├──Sorting/
 │ │       ├──MergeSort.java
 │ │...
-│ ├── AWT/
+│ ├── Tree/
+│ │    ├── BinarySearchTree/
+│ │       ├── BST.java
+│ │    ├── AVLTree.java
+│ │...    
 │ ├── Swing/
 │ ├── ...
 ├── Quick-Recap/
