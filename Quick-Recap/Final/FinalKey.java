@@ -1,5 +1,5 @@
 /*
- FinalKey.java:9: error: cannot inherit from final A
+FinalKey.java:9: error: cannot inherit from final A
 class B extends A 
                 ^
 1 error
