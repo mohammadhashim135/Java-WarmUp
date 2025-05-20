@@ -12,16 +12,16 @@ public class Smiley extends Applet
     {
         // Face
         g.setColor(Color.YELLOW);
-        g.fillOval(50, 50, 200, 200);
+        g.drawOval(80, 70, 150, 150);
 
         // Eyes
         g.setColor(Color.BLACK);
-        g.fillOval(90, 100, 20, 30); // Left eye
-        g.fillOval(190, 100, 20, 30); // Right eye
+        g.fillOval(120, 120, 15, 15);
+        g.fillOval(170, 120, 15, 15);
 
         // Smile
         g.setColor(Color.RED);
-        g.drawArc(100, 130, 100, 70, 0, -180);
+        g.drawArc(130, 180, 50, 20, 180, 180);
     }
 }
 
