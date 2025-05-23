@@ -24,7 +24,7 @@ class Patient
 
     public void inputs()throws IOException
     {
-        System.out.print("\nEnter Patient Name:");
+        System.out.print("\nEnter Patient Name: ");
         name = br.readLine();
         System.out.print("Enter age: ");
         age = Integer.parseInt(br.readLine());
@@ -49,7 +49,7 @@ class Inpatient extends Patient
     public void inputs()throws IOException
     {
         super.inputs();
-        System.out.print("Enter Department Name:");
+        System.out.print("Enter Department Name: ");
         dept = br.readLine();
         System.out.print("Enter date of admit: ");
         date = Integer.parseInt(br.readLine());
